@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Комната</title>
+	<link rel="stylesheet" href="../styles/style.css">
+	<script src="/socket.io/socket.io.js"></script>
+</head>
+
+<body>
+	<div class="room-container">
+		<h2>Комната <span id="roomIdDisplay"></span></h2>
+		<div class="players-list" id="playersList">
+			<!-- Filled by JavaScript -->
+		</div>
+		<button id="leaveRoomBtn">Покинуть комнату</button>
+	</div>
+
+	<script src="../scripts/auth.js"></script>
+	<script src="../scripts/socket.js"></script>
+	<script src="../scripts/room.js"></script>
+</body>
+
+</html>

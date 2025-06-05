@@ -1,0 +1,22 @@
+{
+	"users": [
+		{
+			"id": "428366bf-0dcb-444c-89f1-833cea9017b6",
+			"login": "1",
+			"password": "$2a$10$8B8PuMvYN8XoFiPpWngzmuR1mgey1hDRD.5eh.8sY7lJwPSbPD1Gu",
+			"rating": 10
+		},
+		{
+			"id": "b81f4f09-d63c-44c9-8763-af15e4dbdbb7",
+			"login": "2",
+			"password": "$2a$10$DgjZNLB7KCq/l0tdx6GJHuMjUKc49UER4mVmZpATKbPA41VE7CNju",
+			"rating": 10
+		},
+		{
+			"id": "b2c5a966-f0ee-4397-98e4-c215637d3613",
+			"login": "3",
+			"password": "$2a$10$sULjgi5ZFDJ7EmzQNjpCRu0WPVoj0/HBlRBMNu5n87KcS9g.M1bH.",
+			"rating": 10
+		}
+	]
+}
